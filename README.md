@@ -25,7 +25,8 @@ HomeSphere connects to a **piAlert** server at `http://192.168.1.206` to retriev
 
 Example endpoint:
 ```text
-GET http://192.168.1.206/all```
+GET http://192.168.1.206/all
+```
 
 The endpoint returns network information for all devices, including IP, name, and online status.  
 Each device’s state is then reflected directly in the 3D visualization:
