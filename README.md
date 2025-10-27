@@ -151,6 +151,6 @@ HomeSphere/
 
 ---
 
-**Author:** Christodoulos Stylianidis 
+**Author:** Christodoulos Stylianidis  
 **License:** MIT  
 **Tech Stack:** Three.js, JavaScript, Python (for path replacement), Home Assistant Integration
